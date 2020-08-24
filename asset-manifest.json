@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cocktail_maker/static/css/main.474e8452.chunk.css",
+    "main.js": "/cocktail_maker/static/js/main.95ea2435.chunk.js",
+    "main.js.map": "/cocktail_maker/static/js/main.95ea2435.chunk.js.map",
+    "runtime-main.js": "/cocktail_maker/static/js/runtime-main.ddd67abc.js",
+    "runtime-main.js.map": "/cocktail_maker/static/js/runtime-main.ddd67abc.js.map",
+    "static/js/2.115589cf.chunk.js": "/cocktail_maker/static/js/2.115589cf.chunk.js",
+    "static/js/2.115589cf.chunk.js.map": "/cocktail_maker/static/js/2.115589cf.chunk.js.map",
+    "index.html": "/cocktail_maker/index.html",
+    "precache-manifest.77706d2e29a4069129ae1982e9be4950.js": "/cocktail_maker/precache-manifest.77706d2e29a4069129ae1982e9be4950.js",
+    "service-worker.js": "/cocktail_maker/service-worker.js",
+    "static/css/main.474e8452.chunk.css.map": "/cocktail_maker/static/css/main.474e8452.chunk.css.map",
+    "static/js/2.115589cf.chunk.js.LICENSE.txt": "/cocktail_maker/static/js/2.115589cf.chunk.js.LICENSE.txt",
+    "static/media/cocktail.png": "/cocktail_maker/static/media/cocktail.a928df94.png",
+    "static/media/liquor.png": "/cocktail_maker/static/media/liquor.034d0b6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd67abc.js",
+    "static/js/2.115589cf.chunk.js",
+    "static/css/main.474e8452.chunk.css",
+    "static/js/main.95ea2435.chunk.js"
+  ]
+}
